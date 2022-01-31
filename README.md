@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @UttamBurnwal
-- 👀 I’m interested in subjects related to Python, Machine Learning and Deep Learning.
-- 🌱 I’m currently in my learning phase so I would love to collaborate with people for new projects.
+- 👀 I’m interested in subjects related to Python, Data Science, Machine Learning and Deep Learning.
 
 <!---
 UttamBurnwal/UttamBurnwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
