@@ -1,4 +1,5 @@
-## Welcome to My Github Profile 😎 My name is Uttam Burnwal
+## Welcome to My Github Profile 😎 
+### My name is Uttam Burnwal and I am an independent and self-motivated individual with proven ability and experience in Machine Learning and Data Science projects. So far I have worked on numerous projects and dataset building different machine learning and deep learning models in the domain of supervised learning, unsupervised learning, Time Series Forecasting and Natural Language Processing (NLP). Apart from learning different algorithms I also picked up several handy skills like SQL, HTML, CSS and so on that enchaes my skill in the field of data science. 
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=UttamBurnwal.UttamBurnwal&color=00cf00)
 
